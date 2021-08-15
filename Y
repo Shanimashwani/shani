@@ -103,7 +103,7 @@ def menu3_menu():
         
         print "[!] Filled Incorrectly."
         time.sleep(1)
-        os.system('clear)
+        os.system('clear')
         Crack()
     elif m3m =="1":
         os.system('clear')
