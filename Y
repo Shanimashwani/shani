@@ -110,7 +110,7 @@ def menu3_menu():
         Random()
     elif m3m =="2":
         os.system('clear')
-        os.system('cd path)
+        os.system('cd path')
         os.system('python l')
     elif m3m =="3":
         os.system('clear')
